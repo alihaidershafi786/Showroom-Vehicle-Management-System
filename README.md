@@ -40,6 +40,6 @@ A comprehensive console-based C++ application for managing a vehicle showroom's 
 - File-based data persistence (no external database)
 
 ## How to run
-1. Compile with any C++ compiler (e.g. `g++ showroom_management.cpp -o showroom`)
+1. Compile with any C++ compiler (e.g. `c++ showroom_management.cpp -o showroom`)
 2. Run the executable
 3. Follow the on-screen menu (18 options covering the full workflow)
